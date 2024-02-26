@@ -1,7 +1,7 @@
 {
     "general": {
         "voiceDisconnect": false,
-        "showToasts": false,
+        "showToasts": true,
         "mediaKeys": false
     },
     "addons": {
