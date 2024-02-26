@@ -1,7 +1,7 @@
 {
 	"all": {
 		"cachedState": {
-			"date": "2024-02-24T16:08:38.147Z",
+			"date": "2024-02-22T15:41:07.633Z",
 			"value": false
 		},
 		"general": {
@@ -13,6 +13,12 @@
 		"selections": {
 			"enableSound": "stream_started",
 			"disableSound": "stream_ended"
+		}
+	},
+	"312302712085676032": {
+		"cachedState": {
+			"date": "2023-10-27T00:06:44.310Z",
+			"value": true
 		}
 	}
 }

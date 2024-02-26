@@ -1,6 +1,6 @@
 {
     "BDFDB": true,
-    "ZeresPluginLibrary": true,
+    "ZeresPluginLibrary": false,
     "BetterFormattingRedux": true,
     "BetterVolume": true,
     "FreeEmojis": true,
@@ -11,14 +11,5 @@
     "QuickMention": true,
     "RemoveChatButtons": true,
     "SplitLargeMessages": true,
-    "CallTimeCounter": true,
-    "Translator": true,
-    "ReadAllNotificationsButton": true,
-    "BetterRoleColors": true,
-    "ImageUtilities": true,
-    "ThemeRepo": true,
-    "BetterAnimations": false,
-    "ShowConnections": true,
-    "BetterFriendList": true,
-    "DoNotTrack": true
+    "ThemeRepo": true
 }

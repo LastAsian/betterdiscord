@@ -7,9 +7,9 @@
 			"downloadable": true
 		},
 		"general": {
-			"notifyOutdated": true,
 			"notifyNewEntries": true,
-			"startDownloaded": false,
+			"notifyOutdated": true,
+			"startDownloaded": true,
 			"startUpdated": false
 		}
 	}
