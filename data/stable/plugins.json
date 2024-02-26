@@ -11,5 +11,13 @@
     "QuickMention": true,
     "RemoveChatButtons": true,
     "SplitLargeMessages": true,
-    "ThemeRepo": true
+    "ThemeRepo": true,
+    "BetterFriendList": false,
+    "BetterRoleColors": false,
+    "CallTimeCounter": false,
+    "DoNotTrack": false,
+    "ImageUtilities": false,
+    "ReadAllNotificationsButton": false,
+    "ShowConnections": false,
+    "Translator": false
 }
